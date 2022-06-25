@@ -1,7 +1,7 @@
 # Power_BI
 Power BI project using Power Query and DAX
 
-Dashboard for Adventure Works Cycles, a global manufacturing company using PowerBI Desktop to track KPIs (Sales, Revenue, Profit and Returns), compared regional performance, analyzed product-level trends and forecasts by using raw CSV files containing information about transactions, returns, products and territories.
+1. Dashboard for Adventure Works Cycles, a global manufacturing company using PowerBI Desktop to track KPIs (Sales, Revenue, Profit and Returns), compared regional performance, analyzed product-level trends and forecasts by using raw CSV files containing information about transactions, returns, products and territories.
 
 Steps followed to build dashboard :
 - Connecting Data with Power BI Desktop.
